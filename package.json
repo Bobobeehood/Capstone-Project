@@ -36,6 +36,6 @@
     "babel-preset-stage-2": "^6.24.1",
     "babel-register": "^6.26.0",
     "eslint": "^6.6.0",
-    "mocha": "^6.2.2"
+    "mocha": "^10.2.0"
   }
 }
